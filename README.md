@@ -1,6 +1,6 @@
 # Twitter-API
-
-Easily Search/Stream tweets in csv using Tweepy
+## SAVE TWEETS 🐦 IN CSV
+Easily collect tweet 🐦 data from Twitter in just one click
 
 ## Changes ssh/keys.py Variables
 Make sure to change all the keys with your twitter developer account keys.
